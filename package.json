@@ -1,0 +1,14 @@
+{
+  "name": "udemy-mongodb-basics",
+  "version": "1.0.0",
+  "description": "first mongodb example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ali vaghar",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.12.1"
+  }
+}
